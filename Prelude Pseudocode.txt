@@ -1,0 +1,5 @@
+The music purchase program
+Input the number of songs you wish to download today: Songs
+Compute the cost of the purchase: Set DollarPrice = 0.99 * Songs
+Display the value of DollarPrice
+
