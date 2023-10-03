@@ -63,3 +63,21 @@ Write DegreesFahrenheit + " degrees Fahrenheit converts to " + DegreesCelsius + 
 # DegreesCelsius = 5 * (DegreesFahrenheit - 32) / 9
 # print(f"{DegreesFahrenheit} degrees Fahrenheit converts to {DegreesCelsius} degrees Celsius.")
 
+
+"""
+Declare Flag As Boolean
+Declare Songs As Integer
+Declare DollarPrice As Float
+
+Set Flag = false
+Write "Enter the number of songs you wish to purchase: "
+Input Songs
+If Songs < 0 Then
+    Set Flag = true
+If Flag is true Then
+    Write "You cannot order a negative number of songs."
+If Flag is false Then
+    Set DollarPrice = 0.99 * Songs
+    Write DollarPrice
+    
+"""
