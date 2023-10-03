@@ -1,0 +1,14 @@
+A general problem-solving strategy:
+1. Try to understand the problem completely. If you don't fully understand the problem, it will be difficult, or even impossible, to create a viable plan to solve it.
+2. Devise a plan of action to solve the problem. Provide precise step-by-step instructions for doing so.
+3. Carry out the plan.
+4. Review the results. Did the plan work? Did it solve the given problem?
+
+We say that problem solving is a cyclic process because we often return to the beginning or redo previous work before arriving at a satisfactory solution.
+
+Creating computer programs: the program development cycle
+1. Analyze the problem. Determine what information you are given, what results you need to get, what information you may need to get those results, and in general terms, how to proceed from the known data to the desired results.
+2. Design a program to solve the problem. This is the heart of the program development process. Depending on how hard or complex the problem is, it might take one person a few hours or it might take a large team of programmers many months to carry out this step.
+3. Code the program. Write statements (program code) in a particular computer language that implement the design created in Step 2. The result of this step is the program.
+4. Test the program. Run the program to see if it actually solves the given problem.
+
